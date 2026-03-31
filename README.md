@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Currently working on full-stack projects and improving DSA in Java<br>👯 Open to collaborate on real-world tech projects<br>🤝 Looking to learn backend and scalable systems<br>🌱 Learning Java DSA and full-stack development<br>💬 Ask me about Java, DSA, and web development<br>⚡ Exploring new technologies and problem solving
+<h1 align="center">Hi 👋, I'm Nigam Kumari</h1>
+<h3 align="center">DSA (Java) | Full-Stack Developer </h3>
 
 
 ## 🌐 Socials:
